@@ -1,0 +1,125 @@
+@charset "UTF-8";
+/*-------------------reset------------------------*/
+/*-------------------reset------------------------*/
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+form,
+fieldset,
+legend,
+button,
+input,
+textarea,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+body,
+button,
+input,
+select,
+textarea,
+td,
+th {
+  font: 12px/1.5 tahoma, arial, '\5FAE\8F6F\96C5\9ED1', "Microsoft YaHei", '\5b8b\4f53', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+}
+img {
+  border: 0;
+}
+table {
+  border-collapse: collapse;
+}
+th {
+  font-weight: normal;
+}
+h1,
+h2,
+h3 {
+  font-size: 100%;
+}
+a {
+  color: #515665;
+  text-decoration: none;
+  outline: none;
+}
+a:hover {
+  color: #515665;
+  text-decoration: underline;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  list-style: none;
+}
+.clear {
+  clear: both;
+}
+.bg {
+  background: url(../images/img/pic.png) no-repeat;
+  background-size: 9rem 13.51rem;
+}
+.wrapper {
+  width: 1000px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.wrapper .content {
+  background: url(../images/bg.jpg) no-repeat center;
+  width: 100%;
+  height: 2280px;
+}
+.wrapper .content .text {
+  width: 382px;
+  margin: 0 auto;
+  padding-top: 428px;
+}
+.wrapper .content .tomorrow {
+  float: left;
+  writing-mode: tb-rl;
+  font-size: 54px;
+  color: white;
+}
+.wrapper .content .jump {
+  float: right;
+  width: 297px;
+  height: 888px;
+  background: url(../images/jump.png) no-repeat center;
+}
+.wrapper .content .logo {
+  display: block;
+  position: relative;
+  top: 1560px;
+  width: 148px;
+  height: 174px;
+  margin: 0 auto;
+  background: url(../images/logo.png) no-repeat center;
+}
+#canvas {
+  width: 1000px;
+  height: 2280px;
+  position: absolute;
+  top: 0;
+}
