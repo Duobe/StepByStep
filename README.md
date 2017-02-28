@@ -1,2 +1,2 @@
-# TheFirstOne
-This is a testing project!
+# Step By Step
+A journey of a thousand miles begins with single step.
