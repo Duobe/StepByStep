@@ -1,5 +1,4 @@
-# Step By Step
-A journey of a thousand miles begins with single step.
+## A journey of a thousand miles begins with single step.
 
 - [canvas 粒子效果](http://duobe.github.io/StepByStep/canvas/)
 - [calendar](http://duobe.github.io/StepByStep/calendar/)
