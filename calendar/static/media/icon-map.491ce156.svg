@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="20px" viewBox="0 0 14 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>mdpi/icon map</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="E1-企业-添加空间-默认" transform="translate(-1045.000000, -520.000000)">
+            <g id="icon-map" transform="translate(1045.000000, 520.000000)">
+                <path d="M8.5405,18.4726829 C8.6,18.384878 9.521,16.7839024 10.965,14.2780488 C13.007,10.735122 14,8.28146341 14,6.77658537 C14,3.04 10.8595,0 7,0 C3.14,0 0,3.04 0,6.77658537 C0,8.28146341 0.9925,10.735122 3.0345,14.2780488 C4.479,16.7839024 5.3995,18.384878 5.4595,18.4726829 C5.4595,18.4726829 6.074,19.9360976 6.973,19.9360976 C7.859,19.9360976 8.5405,18.4726829 8.5405,18.4726829 L8.5405,18.4726829 Z" id="Shape" fill="#80D4F6"></path>
+                <ellipse id="Oval" fill="#FFFFFF" cx="7.125" cy="6.92829268" rx="3.625" ry="3.53658537"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
